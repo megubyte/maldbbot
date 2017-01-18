@@ -51,6 +51,7 @@
   "dependencies": {
     "coffea": "1.0.0-beta18",
     "debug-dude": "^1.0.3",
+    "ent": "^2.2.0",
     "request": "^2.79.0",
     "xml2js": "^0.4.17"
   }
